@@ -1,0 +1,28 @@
+{
+  "name": "festi",
+  "version": "0.3.0",
+  "description": "Blockchain application based on javascript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haxfx/festi.git"
+  },
+  "keywords": [
+    "node",
+    "crypto-js"
+  ],
+  "author": "Seb HFX",
+  "contributors": [
+    "Flo"
+  ],
+  "license": "MIT"
+}
